@@ -76,7 +76,7 @@ def count():
     global time
     global char_correct
     global characters_total
-    print(characters_total)
+   
     entry_id.focus_set()
     time += 0.1
     time_in_seconds = time
